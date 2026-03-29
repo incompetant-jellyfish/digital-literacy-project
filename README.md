@@ -136,3 +136,40 @@ Being mindful online is an essential professional skill
 Conclusion
 
 This task helped in understanding how small details in communication—like tone, structure, and clarity—can make a significant difference. It also reinforced the importance of maintaining a responsible digital presence as a student.
+
+## Task 5 - cybercrime
+
+## Overview
+
+In this task, I explored identity theft as a form of cybercrime and created an awareness resource based on a real incident in India. The aim was to understand how such crimes happen and how they can be prevented, especially among students who frequently use digital platforms.
+
+## Case Study
+
+I studied a real case where an engineer from IIT Bombay became a victim of identity theft. His personal information, including Aadhaar and PAN details, was accessed by fraudsters and used to take multiple loans and issue credit cards without his knowledge. The fraud continued for some time and was only discovered when he was contacted by banks regarding unpaid EMIs.
+
+This case shows how identity theft usually happens in steps. First, attackers obtain personal data through phishing, data leaks, or careless sharing of documents. Then they use this information to impersonate the victim and carry out financial transactions. The consequences can include financial loss, damage to credit score, and mental stress.
+
+## Prevention Checklist
+
+- Double-check links before clicking, especially from unknown or urgent messages  
+- Never share OTPs, PINs, passwords, or bank details with anyone  
+- Use strong and unique passwords for different accounts  
+- Enable two-factor authentication (2FA) for important accounts  
+- Avoid logging into sensitive accounts on public Wi-Fi  
+- Download apps only from official app stores  
+- Share personal documents only on trusted and verified platforms  
+- Regularly check bank statements and credit reports  
+
+### UPI / Financial Safety
+
+- Never approve a UPI collect request unless you initiated the payment  
+- Do not scan unknown QR codes  
+
+## Reporting Cybercrime
+
+- National Cyber Crime Portal: https://cybercrime.gov.in  
+- Helpline Number: 1930  
+
+## Reflection
+
+This task made me realize that identity theft can happen easily if basic precautions are ignored. It showed that attackers often rely on simple mistakes rather than complex techniques. I will be more careful while sharing personal information and will regularly monitor my financial activity to detect any unusual transactions early.
