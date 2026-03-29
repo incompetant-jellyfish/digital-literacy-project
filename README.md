@@ -83,3 +83,56 @@ Reflection
 
 Through this task, I learned how to use both coding practice platforms and cloud-based collaboration tools. HackerRank is helpful for improving coding skills through regular practice, while Google Forms and Sheets make it easier to collect and analyze information. These tools will be useful throughout my academic journey for both individual learning and collaborative work.
 
+## Task 4 – Email Etiquette and Digital Communication
+Overview
+
+This task focuses on understanding and applying professional communication in an academic and professional environment. It includes writing formal emails and creating guidelines for responsible social media use as a college student.
+
+The objective is to demonstrate clarity, structure, and professionalism in written communication.
+
+Contents of This Folder
+
+This folder contains the following files:
+
+email1.txt – Email to a professor requesting an assignment deadline extension
+email2.txt – Email to a company expressing interest in a summer internship
+social-media-checklist.md – A checklist of Do’s and Don’ts for responsible social media usage
+### How to View the Files
+Open the folder task-4-email-etiquette/ in the repository
+Click on any file to view its contents
+For .md files, GitHub will automatically display a formatted version
+For .txt or .pdf files, open or download them as needed
+
+No additional setup or software is required.
+
+Description of Work
+### Part A – Professional Emails
+
+Two emails were written following standard email etiquette:
+
+A formal request to a professor asking for an extension, maintaining politeness and clarity
+An internship inquiry email expressing interest, skills, and willingness to contribute
+
+Both emails include proper subject lines, greetings, structured content, and formal sign-offs.
+
+### Part B – Social Media Checklist
+
+A simple and practical checklist was created highlighting:
+
+Appropriate online behavior
+Things students should avoid on public platforms
+
+This is meant to promote responsible digital presence and awareness.
+
+### Part C – Reflection
+
+A short reflection (included in the main report) discusses how poor digital communication can lead to misunderstandings or missed opportunities, along with ways such situations can be handled better.
+
+Key Takeaways
+Professional emails should always be clear, polite, and structured
+First impressions in digital communication matter
+Social media activity can impact academic and career opportunities
+Being mindful online is an essential professional skill
+Conclusion
+
+This task helped in understanding how small details in communication—like tone, structure, and clarity—can make a significant difference. It also reinforced the importance of maintaining a responsible digital presence as a student.
