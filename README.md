@@ -56,3 +56,30 @@ Notes
 
 This is an initial setup. The profiles will continue to be updated with projects, skills, and other relevant work over time
 
+## Task 2: Platforms
+### Part A – Coding Practice (HackerRank)
+
+For this part, I created an account on HackerRank and explored its practice section. I attempted a beginner-level problem to understand how coding challenges are structured on the platform. The process involved reading the problem statement, writing the required logic, and submitting the code to check if it passes all test cases.
+
+This helped me get familiar with how online coding platforms evaluate solutions. It also improved my understanding of basic input/output handling and simple problem-solving techniques. Platforms like HackerRank are useful for regularly practising coding and preparing for technical assessments.
+
+A screenshot of the successfully completed problem is included in the task-3-platforms/ folder.
+
+### Part B – Google Workspace Collaboration (Google Forms)
+
+In this part, I created a Digital Literacy Awareness Quiz using Google Forms. The form contains five multiple-choice questions based on topics such as online safety, password security, and general awareness of digital tools. The purpose of the quiz is to assess basic digital knowledge among students.
+
+I enabled quiz mode and assigned points to each question so that responses can be evaluated automatically. The responses are linked to Google Sheets, which allows easy viewing and organization of submitted answers.
+
+This activity showed how Google Forms can be used for conducting quizzes and collecting data efficiently, which can be helpful for academic tasks and group activities.
+
+The link to the form has been added below:
+
+Google Form Link: https://forms.gle/DevAkswD5pvGaNsE8
+
+Screenshots of the form and the response sheet are available in the task-3-platforms/ folder.
+
+Reflection
+
+Through this task, I learned how to use both coding practice platforms and cloud-based collaboration tools. HackerRank is helpful for improving coding skills through regular practice, while Google Forms and Sheets make it easier to collect and analyze information. These tools will be useful throughout my academic journey for both individual learning and collaborative work.
+
