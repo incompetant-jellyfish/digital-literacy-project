@@ -25,7 +25,3 @@
 
 * National Cyber Crime Portal: [https://cybercrime.gov.in](https://cybercrime.gov.in)
 * Helpline Number: **1930**
-
-
-
-If you want, I can also make this look more like a **student-written README (less formal, more personal)** so it passes stricter evaluation.
