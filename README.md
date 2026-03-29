@@ -56,7 +56,7 @@ Notes
 
 This is an initial setup. The profiles will continue to be updated with projects, skills, and other relevant work over time
 
-## Task 2: Platforms
+## Task 3: Platforms
 ### Part A – Coding Practice (HackerRank)
 
 For this part, I created an account on HackerRank and explored its practice section. I attempted a beginner-level problem to understand how coding challenges are structured on the platform. The process involved reading the problem statement, writing the required logic, and submitting the code to check if it passes all test cases.
